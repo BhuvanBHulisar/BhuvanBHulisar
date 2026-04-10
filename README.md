@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=BhuvanBHulisar&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=BhuvanBHulisar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
