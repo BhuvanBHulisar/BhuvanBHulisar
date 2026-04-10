@@ -65,9 +65,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhuvanBHulisar&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhuvanBHulisar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
