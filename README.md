@@ -39,6 +39,15 @@
 
 ---
 
+## 🧠 Skills Summary:
+- Full Stack Development (React + Node.js)
+- FinTech Systems & Payment Integration
+- Real-time Systems (Socket.io)
+- Scalable Backend Architecture
+- AWS Cloud Deployment
+
+---
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/BhuvanBHulisar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bhuvan.sagar_17)
@@ -68,5 +77,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/BhuvanBHulisar/BhuvanBHulisar/blob/output/github-contribution-grid-snake.svg)
+
