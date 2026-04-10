@@ -61,9 +61,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuvanBHulisar&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=BhuvanBHulisar&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanBHulisar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhuvanBHulisar&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanBHulisar&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=BhuvanBHulisar&theme=tokyonight"/>
 </p>
 
 ---
