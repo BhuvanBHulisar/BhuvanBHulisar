@@ -60,10 +60,9 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhuvanBHulisar&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BhuvanBHulisar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=BhuvanBHulisar&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanBHulisar&layout=compact&theme=tokyonight" />
 </p>
 
